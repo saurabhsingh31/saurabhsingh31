@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">Mastering the Art of AI: Driven by Passion for Programming</h3>
-<img align="right" alt="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fprogrammer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg&tbnid=2p2FSDlqop3FIM&vet=12ahUKEwiD5sviwZuAAxUM_zgGHThpCycQMygaegUIARCwAg..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&w=626&h=417&q=animated%20coding%20images&ved=2ahUKEwiD5sviwZuAAxUM_zgGHThpCycQMygaegUIARCwAg">
+<img align="right" alt="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsingh31&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsingh31" /> </p>
